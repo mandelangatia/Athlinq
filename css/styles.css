@@ -1,0 +1,13 @@
+.navbar {
+  background-color: #00BFFF;
+  color: #6A5ACD;
+  width: 100%;
+  font-size: 40px;
+}
+.navbar a:hover{
+  background-color: #ADFF2F;
+  color: white;
+}
+#rowone {
+  text-align: center;
+}
