@@ -45,3 +45,8 @@ video {
   background-color: dimgray;
   opacity: 0.7;
 }
+#regiform {
+  font-size: 20px;
+  color: black;
+  display: none;
+}
