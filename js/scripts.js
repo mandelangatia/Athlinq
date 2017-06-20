@@ -13,5 +13,9 @@ $(document).ready(function() {
 
   $("#showform").click(function() {
     $("#regiform").show();
+  });
+
+  $("#showevents").click(function() {
+    $("#events").show();
   })
 })
