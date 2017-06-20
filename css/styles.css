@@ -50,3 +50,11 @@ video {
   color: black;
   display: none;
 }
+.container {
+  color: #FF8C00;
+  background-color: #2F4F4F;
+}
+.list-unstyled img {
+  width: 4em;
+  height: 4em;
+}
