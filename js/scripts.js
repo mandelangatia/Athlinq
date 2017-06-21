@@ -24,3 +24,7 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
+function showhide(id) {
+       var e = document.getElementById(id);
+       e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+    }

@@ -1,8 +1,8 @@
 body {
   background-color: #542F2F;
-  /*background-image: url(ofoImjh.jpg);
+  background-image: url(ofoImjh.jpg);
   background-repeat: no-repeat;
-  background-attachment: fixed;*/
+  background-attachment: fixed;
   padding-top: 50px;
   font-style: oblique;
   color: white;
@@ -16,9 +16,9 @@ h1 {
   font-family: serif;
   color: red;
 }
-a:hover {
+/*a:hover {
     background-color: #555;
-    color: white;
+    color: yellow;*/
 }
 ul {
     margin: 0;
