@@ -1,12 +1,20 @@
 body {
-  background-color: #542F2F;
+  /*background-color: #542F2F;
   background-image: url(ofoImjh.jpg);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed;*/
   padding-top: 50px;
   font-style: oblique;
   color: white;
 }
+/*.tinted-image {
+  background:
+  linear-gradient(
+    rgba(255, 0, 0, 0.45),
+    rgba(255, 0, 0, 0.45)
+    ),
+    url(ofoImjh.jpg)
+}*/
 
 .head {
   text-align: center;
