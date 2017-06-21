@@ -5,7 +5,7 @@ body {
   background-attachment: fixed;*/
   padding-top: 50px;
   font-style: oblique;
-  color: white;
+  color: orange;
 }
 .tinted-image {
 
@@ -40,6 +40,9 @@ ul {
     margin: 0;
     padding: 20px;
     /*background-color: #333;*/
+}
+.text{
+  color: blue;
 }
 li{
   margin-left: 10px;
