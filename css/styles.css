@@ -1,20 +1,28 @@
 body {
-  /*background-color: #542F2F;
-  background-image: url(ofoImjh.jpg);
+  background-color: cyan;
+  /*background-image: url(ofoImjh.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;*/
   padding-top: 50px;
   font-style: oblique;
   color: white;
 }
-/*.tinted-image {
+.tinted-image {
+
+  width: 1400px;
+  height: 800px;
+
   background:
-  linear-gradient(
-    rgba(255, 0, 0, 0.45),
-    rgba(255, 0, 0, 0.45)
+    /* top, transparent red */
+    linear-gradient(
+      rgba(255, 0, 0, 0.45),
+      rgba(255, 0, 0, 0.45)
     ),
-    url(ofoImjh.jpg)
-}*/
+    /* bottom, image */
+    url(ofoImjh.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
 
 .head {
   text-align: center;
