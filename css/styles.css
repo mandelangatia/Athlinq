@@ -6,6 +6,8 @@ body {
   padding-top: 50px;
   font-style: oblique;
   color: orange;
+  font-family: sans-serif;
+  font-size: 30px;
 }
 .tinted-image {
 
@@ -30,7 +32,8 @@ body {
 
 h1 {
   font-family: serif;
-  color: red;
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive;
 }
 /*a:hover {
     background-color: #555;
@@ -41,8 +44,11 @@ ul {
     padding: 20px;
     /*background-color: #333;*/
 }
+.foot{
+  color: white;
+}
 .text{
-  color: blue;
+  color: orange;
 }
 li{
   margin-left: 10px;
