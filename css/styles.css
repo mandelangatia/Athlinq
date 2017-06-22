@@ -1,5 +1,7 @@
 body {
   background-color: cyan;
+  /*background-image: url(TL_1066028-1.jpg);
+  background-repeat: no-repeat;*/
   /*background-image: url(ofoImjh.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;*/
@@ -7,7 +9,7 @@ body {
   font-style: oblique;
   color: orange;
   font-family: sans-serif;
-  font-size: 30px;
+  font-size: 20px;
 }
 .tinted-image {
 
@@ -56,6 +58,18 @@ li{
 }
 .text-muted{
   color: blue;
+}
+.facebook{
+  width: 20px;
+  height: 20px
+}
+.gg{
+  width: 20px;
+  height: 20px;
+}
+.ig{
+  width: 20px;
+  height: 20px;
 }
 .gallery {
     margin: 50px;
